@@ -1,14 +1,15 @@
 # Hey, I'm Hamid 👋
 
-### Software Engineer in the making · DSA Grinder · Building one problem at a time
-
+### Student at 1337 · Software Engineer in the making · Trust the process, enjoy the process
 ---
 
-## 🧠 Currently
+## What is 1337 for me?
 
-- 🗺️ Working through a structured **DSA & Algorithms roadmap** (6 phases, 100+ problems)
-- 🔁 Using **spaced repetition** to actually retain what I learn — not just solve and forget
-- 📍 Phase 1 — Arrays, Two Pointers, Sliding Window, Prefix Sum
+Comfort zones are well-decorated prisons — I lived in one.
+1337 is my escape. To challenge myself. To stop doubting myself.
+Surrounded by people who push their limits every day —
+this energy simply stops you from hiding the best version of yourself.
+I'm here to find out what I'm actually made of.
 
 ---
 
@@ -29,6 +30,7 @@
 | 5 — Heap & Greedy | Heap, Priority Queue, Greedy | ⏳ Locked |
 | 6 — DP & Advanced | 1D/2D DP, Intervals, Tries, Bit Manipulation | ⏳ Locked |
 
+📋 [Use this template for your own tracker →](https://heavenly-party-45d.notion.site/355d8b96494881edb458c581cd2b568b?v=355d8b9649488178965b000c3e656a88&source=copy_link)
 ---
 
 ## 🛠️ Tech Stack
