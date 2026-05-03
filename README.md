@@ -11,6 +11,8 @@ Surrounded by people who push their limits every day —
 this energy simply stops you from hiding the best version of yourself.
 I'm here to find out what I'm actually made of.
 
+It's your place when it makes you smile even while struggling.
+
 ---
 
 ## ⚔️ LeetCode Stats
