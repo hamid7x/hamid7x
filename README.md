@@ -32,7 +32,7 @@ It's your place when it makes you smile even while struggling.
 | 5 — Heap & Greedy | Heap, Priority Queue, Greedy | ⏳ Locked |
 | 6 — DP & Advanced | 1D/2D DP, Intervals, Tries, Bit Manipulation | ⏳ Locked |
 
-📋 [Use this template for your own tracker →](https://heavenly-party-45d.notion.site/355d8b96494881edb458c581cd2b568b?v=355d8b9649488178965b000c3e656a88&source=copy_link)
+📋 [Use this template for your own tracker →](https://heavenly-party-45d.notion.site/DSA-Roadmap-Template-355d8b96494880a2a986c503a233bf03?source=copy_link)
 ---
 
 ## 🛠️ Tech Stack
@@ -56,7 +56,5 @@ It's your place when it makes you smile even while struggling.
 ![GitHub Streak](https://streak-stats.demolab.com?user=hamid7x&theme=tokyonight&hide_border=true)
 
 ---
-
-> *"The struggle itself is what builds the memory. Easy re-reads do almost nothing."*
 
 <!-- Update the roadmap table above as you progress through each phase -->
