@@ -43,8 +43,9 @@
 
 ## 📊 GitHub Stats
 
-![hamid7x's GitHub Stats](https://github-readme-stats.vercel.app/api?username=hamid7x&show_icons=true&theme=tokyonight&hide_border=true)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=hamid7x&layout=compact&theme=tokyonight&hide_border=true)
+![hamid7x's GitHub Stats](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=hamid7x&theme=tokyonight)
+![Stats](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=hamid7x&theme=tokyonight)
+![Top Languages](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=hamid7x&theme=tokyonight)
 
 ---
 
