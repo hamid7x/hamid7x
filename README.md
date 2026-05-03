@@ -33,6 +33,18 @@ I'm here to find out what I'm actually made of.
 📋 [Use this template for your own tracker →](https://heavenly-party-45d.notion.site/355d8b96494881edb458c581cd2b568b?v=355d8b9649488178965b000c3e656a88&source=copy_link)
 ---
 
+## 🎯 42 Holy Graph
+ 
+<!-- To add your holy graph:
+1. Take a screenshot of your holy graph from the 42 intranet
+2. In your terminal: mkdir assets && cp ~/path/to/screenshot.png assets/holygraph.png
+3. git add . && git commit -m "add holy graph" && git push
+4. Then delete this comment and uncomment the line below -->
+ 
+![Holy Graph](assets/holygraph.png)
+ 
+---
+
 ## 🛠️ Tech Stack
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
