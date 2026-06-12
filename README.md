@@ -1,40 +1,14 @@
 # Hey, I'm Hamid 👋
 
-### Student at 1337 · Software Engineer in the making · Trust the process, enjoy the process
+### Student at 1337 · Software Engineer in the making ·
 ---
 
-## What is 1337 for me?
-
-Comfort zones are well-decorated prisons — I lived in one.
-1337 is my escape. To challenge myself. To stop doubting myself.
-Surrounded by people who push their limits every day —
-this energy simply stops you from hiding the best version of yourself.
-I'm here to find out what I'm actually made of.
-
-It's your place when it makes you smile even while struggling.
-
----
 
 ## ⚔️ LeetCode Stats
 
 ![LeetCode Stats](https://leetcard.jacoblin.cool/hamid7x?theme=dark&font=Karma&ext=contest)
 
 ---
-
-## 🗺️ My DSA Roadmap
-
-| Phase | Patterns | Status |
-|-------|----------|--------|
-| 1 — Foundation | Arrays & Hashing, Two Pointers, Sliding Window, Prefix Sum | 🔥 In Progress |
-| 2 — Linear Structures | Stack, Linked List, Binary Search | ⏳ Up next |
-| 3 — Trees & Graphs | Tree DFS/BFS, BST, Graph, Union Find | ⏳ Locked |
-| 4 — Backtracking | Backtracking | ⏳ Locked |
-| 5 — Heap & Greedy | Heap, Priority Queue, Greedy | ⏳ Locked |
-| 6 — DP & Advanced | 1D/2D DP, Intervals, Tries, Bit Manipulation | ⏳ Locked |
-
-📋 [Use this template for your own tracker →](https://heavenly-party-45d.notion.site/DSA-Roadmap-Template-355d8b96494880a2a986c503a233bf03?source=copy_link)
----
-
 ## 🛠️ Tech Stack
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
