@@ -1,6 +1,6 @@
 # Hey, I'm Hamid 👋
 
-### Student at 1337 · Software Engineer in the making ·
+### Student at 1337 ·
 ---
 
 
